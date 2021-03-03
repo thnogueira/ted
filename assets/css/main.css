@@ -4,6 +4,7 @@
 	Industrious by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+	Modified by Thadeu Nogueira
 */
 /* Basic */
 @-ms-viewport {
@@ -1811,7 +1812,7 @@ ul.icons {
   -webkit-justify-content: center;
   -ms-justify-content: center;
   justify-content: center;
-  background-image: url("../../images/banner.jpg");
+  background-image: url("../../images/IMG_0059.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
