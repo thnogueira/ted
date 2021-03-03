@@ -1,4 +1,5 @@
 # This code is used to extract followers from a specific profile in Instagram. It can be used on more profile at the same time.
+# IT IS NECESSARY TO DOWNLOAD AND UPDATE THE 'input_instabot' FILE BEFORE USING IT. (or feel free to change the code to not to do so)
 
 import re
 import csv
